@@ -7,3 +7,5 @@ An ESP8266 Real Time Clock (RTC) from the Appendix (8.2) of the ESP8266 SDK Prog
 2. `make`
 3. `make flash`
 4. Observe the serial output using a baud rate of 115200.
+
+The SDK Programming Guide can be found in `<toolchain root>/sdk/document`
